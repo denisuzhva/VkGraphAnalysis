@@ -1,1 +1,1 @@
-# vk_graph_analysis
+Analysis of the graph of my friends in Vkontakte
