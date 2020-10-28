@@ -1,4 +1,4 @@
-## SEE https://github.com/beyondbeneath/bezier-curved-edges-networkx
+## https://github.com/beyondbeneath/bezier-curved-edges-networkx/blob/master/curved_edges.py
 
 import bezier
 import networkx as nx
